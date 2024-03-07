@@ -27,7 +27,7 @@ You can try out the live demo of the Calculator App [here](https://feven2552.git
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/feven2552/calculator-app.git
    ```
 
 2. Navigate to the project directory.
